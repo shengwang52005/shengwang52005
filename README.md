@@ -16,7 +16,7 @@ EN
 - Tips: If you can understand CN version,you will find wonderment.
 
 CN
-- 你好啊，旅行者~我叫shengwang52005，你也可以叫我崽崽/miaowing（喵.wing~也可以哦）
+- 你好啊，旅行者~我叫shengwang52005，你也可以叫我崽崽/miaowing
 - 我对我的世界和原神感兴趣
 - 我正在学习“怎样快速获取原石以获取雷电将军（20240112：4.3下半卡池还剩19天了……）”
 - 你可以来我的大世界来采东西，当然，你需要帮我做下委托==（UID在下方给出）
