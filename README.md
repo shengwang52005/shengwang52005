@@ -1,6 +1,6 @@
-关于我
-About me
-
+### 关于我
+#### About me
+---
 EN
 - 👋 Hi, travellers~! I’m @shengwang52005
 - ♫♬ You can call me "miaowing"
@@ -12,9 +12,9 @@ EN
 - QQ : 3326923018
 - Minecraft ID: shangxue123 / miaowing
 - Genshin Impact UID: (CN Server)272804216 / (Global->Asia Server)889814819
-- ❥Lover: Who konws:)
+- ❥Lover: Who knows:)
 - Tips: If you can understand CN version,you will find wonderment.
-
+---
 CN
 - 你好啊，旅行者~我叫shengwang52005，你也可以叫我崽崽/miaowing
 - 我对我的世界和原神感兴趣
@@ -24,21 +24,20 @@ CN
 - 邮箱：shengwang52005@163.com
 - 我的世界 ID：shangxue123（正版） / miaowing（离线）
 - 原神 UID: (国服)272804216 / (国际亚服)889814819
-- ❥恋人：Who konws:)
-
-Welcome to China!
-欢迎来中国玩~！
-I hope you will have a good time here.
-我希望你会度过一段愉快的时光~！
-
-
-崽崽永远是崽崽！
-ZZ Online!
-
-拾穗
-『其实美丽的故事都是没有结局的，只因为它没有结局所以才会美丽。』
-—— 「萤火之森」
-
+- ❥恋人：Who knows:)
+---
+#### Welcome to China!
+#### 欢迎来中国玩~！
+#### I hope you will have a good time here.
+#### 我希望你会度过一段愉快的时光~！
+---
+### 崽崽永远是崽崽！
+### ZZ Online!
+---
+### 拾穗
+### 『其实美丽的故事都是没有结局的，只因为它没有结局所以才会美丽。』
+### —— 「萤火之森」
+---
 Link: https://github.com/shengwang52005/
 
 <!---
