@@ -12,7 +12,6 @@ EN
 - QQ : 3326923018
 - Minecraft ID: shangxue123 / miaowing
 - Genshin Impact UID: (CN Server)272804216 / (Global->Asia Server)889814819
-- ❥Lover: Who knows:)
 - Tips: If you can understand CN version,you will find wonderment.
 ---
 CN
@@ -24,7 +23,6 @@ CN
 - 邮箱：shengwang52005@163.com
 - 我的世界 ID：shangxue123（正版） / miaowing（离线）
 - 原神 UID: (国服)272804216 / (国际亚服)889814819
-- ❥恋人：Who knows:)
 ---
 #### Welcome to China!
 #### 欢迎来中国玩~！
