@@ -12,19 +12,17 @@ EN
 - QQ : 3326923018
 - Minecraft ID: shangxue123 / miaowing
 - Genshin Impact UID: (CN Server)272804216 / (Global->Asia Server)889814819
-- Tips: If you can understand CN version,you will find wonderment.
 ---
 CN
 - 你好啊，旅行者~我叫shengwang52005，你也可以叫我崽崽/miaowing
 - 我对我的世界和原神感兴趣
-- 我正在学习“怎样快速获取原石以获取雷电将军（20240112：4.3下半卡池还剩19天了……）”
+- 我正在学习“怎样更好的玩原神”
 - 你可以来我的大世界来采东西，当然，你需要帮我做下委托==（UID在下方给出）
 - 怎样联系我呢？
 - 邮箱：shengwang52005@163.com
 - QQ : 3326923018
 - 我的世界 ID：shangxue123（正版） / miaowing（离线）
 - 原神 UID: (国服)272804216 / (国际亚服)889814819
-- 被甩了，目前单身，有意私（什）
 ---
 #### Welcome to China!
 #### 欢迎来中国玩~！
