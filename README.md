@@ -20,7 +20,7 @@ CN
 - ✨ TG : @miaowing123 (推荐)
 - 喜欢猫猫，非常宅~
 ---
-![Miaowing's GitHub Stats](https://github-readme-stats-alpha-eight-96.vercel.app/api?username=shengwang52005)
+[![Miaowing's GitHub Stats](https://github-readme-stats-alpha-eight-96.vercel.app/api?username=shengwang52005)](https://github.com/anuraghazra/github-readme-stats/)
 ---
 ### ☀拾穗
 #### 『Let's Build from HERE!』
