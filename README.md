@@ -8,7 +8,7 @@
 - 📫 私に連絡するには...
 - ✨ メール：miaowing.520@gmail.com
 - ✨ TG：@miaowing123（推奨）
-- 好きな猫
+- ❤ 好きな猫
 ---
 [![Miaowing's GitHub Stats](https://github-readme-stats-alpha-eight-96.vercel.app/api?username=shengwang52005)](https://github.com/anuraghazra/github-readme-stats/)
 ---
